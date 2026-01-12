@@ -1,0 +1,7 @@
+{
+  "name": "CampusTrack - Lost & Found Portal",
+  "description": "A comprehensive digital solution for campus lost and found management with intelligent item matching and real-time communication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

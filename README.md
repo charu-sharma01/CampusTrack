@@ -1,0 +1,1 @@
+# This is Campus Track-Intelligent Lost & Found Locator .It is a team project done by Himanshu Gadekar,Charu Sharma,Akshara Gupta,Mrunmai Tippat under the guideance of our mentor Pavithra Kannan during Infosys Springboard Virtual Internship 6.O
